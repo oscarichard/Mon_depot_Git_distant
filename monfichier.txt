@@ -1,1 +1,2 @@
 Contenu du fichier
+Modification dans la branche ma-nouvelle-branche
